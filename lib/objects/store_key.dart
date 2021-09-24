@@ -1,0 +1,3 @@
+
+
+const SAVED_USER_KEY = 'SAVED_USER_KEY';
